@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1667725765 source:c:\users\padhm\desktop\queryprefix\queryprefixac\node.cpp
+	"node.h"
+
+1667752556 c:\users\padhm\desktop\queryprefix\queryprefixac\node.h
+	<iostream>
+
+1667878186 source:c:\users\padhm\desktop\queryprefix\queryprefixac\search.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"trie.h"
+	"node.h"
+
+1667803266 c:\users\padhm\desktop\queryprefix\queryprefixac\trie.h
+	<iostream>
+	<string>
+	"node.h"
+
+1667882837 source:c:\users\padhm\desktop\queryprefix\queryprefixac\trie.cpp
+	<iostream>
+	<string>
+	"trie.h"
+	"node.h"
+
